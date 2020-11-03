@@ -2,4 +2,4 @@
 
 ## Thanks For Visit My Repo
 
-(https://hasibulpolok.github.io/analogclock/)[Watch The Clock]
+[Watch The Clock By Click Here](https://hasibulpolok.github.io/analogclock)
